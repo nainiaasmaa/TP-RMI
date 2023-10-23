@@ -71,8 +71,31 @@ Notre solution repose sur les principes de RMI pour permettre des communications
 
   ![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/c73beb58-e286-45b2-b806-76aeaa2a7d16)
 
-                 
+## Téchnologies utilisées
+- Java
+- MySQL (for the database)
+- Hibernate (for the persistence layer)
+- RMI (for client-server communication)
+             
+## Structure du projet
+Ce projet est divisé en deux parties :
 
+Projet ServeurRMI
+
+src/main/java/entities : Classes d'entité pour les machines et les salles.
+src/main/java/util : Classe HibernateUtil pour la gestion de la SessionFactory.
+src/main/java/service : Classes MachineService et RoomService pour les opérations de service.
+src/main/java/config : Fichier hibernate.cfg.xml pour la configuration de Hibernate.
+src/main/java/dao : Interface IDao pour les opérations CRUD.
+src/main/java/serveur : Classe Server pour démarrer le serveur RMI.
+
+Projet ClientRMI
+
+src/main/java/entities : Classes d'entité pour les machines et les salles.
+src/main/java/dao : Interface IDao pour les opérations CRUD.
+src/main/java/config : Classe Config pour la configuration RMI (adresse IP et port).
+src/main/resources : Fichier configuration.properties pour spécifier l'adresse IP et le port du serveur.
+src/main/java/ui : Interface utilisateur graphique Swing pour la gestion des salles et des machines.
 
 
 
