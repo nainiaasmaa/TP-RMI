@@ -27,49 +27,49 @@ Notre solution repose sur les principes de RMI pour permettre des communications
 
                     Image 1 : L'interface de gestion.
                     
-                    ![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/aa6aed69-2cd0-4830-98cf-348af1239dc1)
+![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/aa6aed69-2cd0-4830-98cf-348af1239dc1)
 
 -> **Gestion des machine :**
 
                     Image 2 : L'interface de gestion des machines. 
 
-                    ![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/01ea520e-f833-404d-b857-2c9fc9825176)
+![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/01ea520e-f833-404d-b857-2c9fc9825176)
 
                     Image 3 : L'ajout d'une machine.
 
-                    ![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/52fe64c2-50fb-4c6a-bb20-557e8f5d8374)
+![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/52fe64c2-50fb-4c6a-bb20-557e8f5d8374)
                     
                     Image 4 : La suppression d'une machine.
 
-                    ![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/6c021f25-47b8-48af-844c-0b10fc9403c8)
+![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/6c021f25-47b8-48af-844c-0b10fc9403c8)
 
                     Image 5 : La modification d'une machine.
 
-                    ![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/bcf8ec3d-5655-4987-acb0-e8b05204073b)
+![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/bcf8ec3d-5655-4987-acb0-e8b05204073b)
 
 -> **Gestion des salles :**
 
                     Image 6 : L'interface de gestion des salles.
 
-                    ![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/e1ecedee-f9e9-4887-881e-0cbe858ece6d)
+![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/e1ecedee-f9e9-4887-881e-0cbe858ece6d)
 
                     Image 7 : L'ajout d'une salle.
 
-                    ![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/940780ba-8e87-4575-b0bb-f791b59ce598)
+![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/940780ba-8e87-4575-b0bb-f791b59ce598)
 
                     Image 8 : La suppression d'une salle.
 
-                    ![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/9b2a5a97-378a-4072-8ca9-5e865cfe2ac3)
+![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/9b2a5a97-378a-4072-8ca9-5e865cfe2ac3)
 
                     Image 9 : La modification d'une salle.
 
-                    ![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/ef656420-ea8d-4b45-9223-f3badb36a7f6)
+![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/ef656420-ea8d-4b45-9223-f3badb36a7f6)
 
 -> **Recherches des machines à partir d'une salle :**
 
                    Image 10 : L'interface de recherche.
 
-                   ![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/c73beb58-e286-45b2-b806-76aeaa2a7d16)
+  ![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/c73beb58-e286-45b2-b806-76aeaa2a7d16)
 
                  
 
