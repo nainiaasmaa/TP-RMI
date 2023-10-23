@@ -25,51 +25,51 @@ Notre solution repose sur les principes de RMI pour permettre des communications
 
 # Les Captures d'écran :
 
-                    Image 1 : L'interface de gestion.
+Image 1 : L'interface de gestion.
                     
 ![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/aa6aed69-2cd0-4830-98cf-348af1239dc1)
 
 -> **Gestion des machine :**
 
-                    Image 2 : L'interface de gestion des machines. 
+Image 2 : L'interface de gestion des machines. 
 
 ![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/01ea520e-f833-404d-b857-2c9fc9825176)
 
-                    Image 3 : L'ajout d'une machine.
+Image 3 : L'ajout d'une machine.
 
 ![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/52fe64c2-50fb-4c6a-bb20-557e8f5d8374)
                     
-                    Image 4 : La suppression d'une machine.
+Image 4 : La suppression d'une machine.
 
 ![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/6c021f25-47b8-48af-844c-0b10fc9403c8)
 
-                    Image 5 : La modification d'une machine.
+Image 5 : La modification d'une machine.
 
 ![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/bcf8ec3d-5655-4987-acb0-e8b05204073b)
 
 -> **Gestion des salles :**
 
-                    Image 6 : L'interface de gestion des salles.
+Image 6 : L'interface de gestion des salles.
 
 ![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/e1ecedee-f9e9-4887-881e-0cbe858ece6d)
 
-                    Image 7 : L'ajout d'une salle.
+Image 7 : L'ajout d'une salle.
 
 ![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/940780ba-8e87-4575-b0bb-f791b59ce598)
 
-                    Image 8 : La suppression d'une salle.
+Image 8 : La suppression d'une salle.
 
 ![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/9b2a5a97-378a-4072-8ca9-5e865cfe2ac3)
 
-                    Image 9 : La modification d'une salle.
+Image 9 : La modification d'une salle.
 
 ![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/ef656420-ea8d-4b45-9223-f3badb36a7f6)
 
 -> **Recherches des machines à partir d'une salle :**
 
-                   Image 10 : L'interface de recherche.
+Image 10 : L'interface de recherche.
 
-  ![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/c73beb58-e286-45b2-b806-76aeaa2a7d16)
+ ![image](https://github.com/nainiaasmaa/TP-RMI/assets/147659638/c73beb58-e286-45b2-b806-76aeaa2a7d16)
 
 ## Téchnologies utilisées
 - Java
@@ -83,18 +83,27 @@ Ce projet est divisé en deux parties :
 Projet ServeurRMI
 
 src/main/java/entities : Classes d'entité pour les machines et les salles.
+
 src/main/java/util : Classe HibernateUtil pour la gestion de la SessionFactory.
+
 src/main/java/service : Classes MachineService et RoomService pour les opérations de service.
+
 src/main/java/config : Fichier hibernate.cfg.xml pour la configuration de Hibernate.
+
 src/main/java/dao : Interface IDao pour les opérations CRUD.
+
 src/main/java/serveur : Classe Server pour démarrer le serveur RMI.
 
 Projet ClientRMI
 
 src/main/java/entities : Classes d'entité pour les machines et les salles.
+
 src/main/java/dao : Interface IDao pour les opérations CRUD.
+
 src/main/java/config : Classe Config pour la configuration RMI (adresse IP et port).
+
 src/main/resources : Fichier configuration.properties pour spécifier l'adresse IP et le port du serveur.
+
 src/main/java/ui : Interface utilisateur graphique Swing pour la gestion des salles et des machines.
 
 
